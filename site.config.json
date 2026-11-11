@@ -1,0 +1,12 @@
+{
+  "siteUrl": "https://brand-ai-digital.pages.dev",
+  "name": "Brand Ai Digital",
+  "description": "AI 서비스 소개와 비교, 업무 자동화, 디지털 상품과 전자책 활용 정보를 정리하는 블로그, Brand Ai Digital입니다.",
+  "affiliateNotice": "이 글에는 제휴 링크가 포함되어 있으며, 링크를 통한 구매나 가입 등에 따라 Brand Ai Digital이 수수료를 받습니다.",
+  "defaultCategory": "AI",
+  "footerTagline": "AI 도구와 디지털 상품 정보",
+  "homeOgTitleSuffix": "AI·전자책",
+  "heroTitleHtml": "AI를 업무에,<br>디지털 상품을 일상에.",
+  "heroDesc": "Brand Ai Digital이 AI 도구와 전자책 활용법을 직접 확인한 내용 위주로 정리합니다.",
+  "githubRepo": "brandaiagent/brand-ai-digital"
+}
