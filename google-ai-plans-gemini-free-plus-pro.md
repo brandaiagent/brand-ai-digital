@@ -12,6 +12,8 @@ intent: "비교 분석형"
 ---
 구글 제미나이(Gemini)는 **무료로도 기본 기능을 쓸 수 있고**, 더 많이 쓰거나 저장공간이 필요하면 유료 요금제인 **Google AI Plus(월 7,500원), Google AI Pro, Google AI Ultra(월 119,000원부터)** 중에서 고르면 됩니다. 구글 공식 요금제 페이지 기준으로 AI 플러스는 무료 버전보다 2배, AI 프로는 4배 높은 사용량을 제공합니다. 아래는 2026년 11월 27일에 확인한 내용입니다.
 
+![구글 AI 무료, Plus, Pro, Ultra 요금제의 월 요금과 저장공간을 비교한 표 카드](/images/google-ai-plans-gemini-free-plus-pro-01-plans.webp)
+
 ## 요금제별 한눈에 비교
 
 | 요금제 | 월 요금(한국) | 저장공간 |
@@ -26,6 +28,8 @@ intent: "비교 분석형"
 AI 프로의 원화 요금은 이번에 확인한 공식 페이지 본문에서 숫자로 확인되지 않아 표에 적지 않았습니다. 가입 버튼을 누르면 내 계정 기준 요금이 표시됩니다.
 
 ## 무료 제미나이로 되는 것
+
+![나무 탁자 위 노트북 화면에 구글 검색 첫 페이지가 열려 있고 옆에 스마트폰이 놓인 모습](/images/google-ai-plans-gemini-free-plus-pro-02-laptop.webp)
 
 구글 공식 페이지에 따르면 무료 요금제는 Google 계정만 있으면 쓸 수 있고, Gemini 앱의 자동 모델 선택, 이미지 생성과 수정, Deep Research, Gemini Live, Canvas 같은 기능을 제공합니다. 저장공간은 Gmail, Drive, 포토에서 함께 쓰는 15GB입니다.
 
@@ -99,5 +103,6 @@ AI로 영상 제작이나 대규모 코딩처럼 하루 종일 많은 작업을 
 - [Gemini 구독 요금제](https://gemini.google/kr/subscriptions/) — Google, 확인일 2026-11-27
 - [Google AI 요금제](https://one.google.com/intl/ko_kr/about/google-ai-plans/) — Google One, 확인일 2026-11-27
 - [구글 AI 플러스(AI Plus) 요금제가 출시됩니다](https://blog.google/intl/ko-kr/products/google-ai-plus-plans-kr/) — 구글코리아 블로그, 2026-01-27, 확인일 2026-11-27
+- 사진 일부: Pixabay (무료 이용 허가 이미지)
 
 정보 기준일: 2026-11-27. 구글 AI 요금제의 가격과 기능은 자주 바뀌니 가입 전에 공식 페이지를 다시 확인해 주세요.
